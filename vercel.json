@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/download",
+      "destination": "https://zkgpvhcfbqfmcopzvecg.supabase.co/functions/v1/download",
+      "statusCode": 302
+    }
+  ]
+}
